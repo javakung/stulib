@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 #This call to setup() does all the work
 setup(
     name="stulib", # package name
-    version="0.0.2", # package version
+    version="0.0.3", # package version
     author="javakung", # creator username
     author_email="javakung@gmail.com", # email creator
     description="STU Standard Library", # description
